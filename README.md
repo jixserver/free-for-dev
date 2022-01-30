@@ -217,6 +217,7 @@ Table of Contents
 
 ## Monitoring
 
+  * [nodown.io](https://nodown.io) - Automated website/API monitoring (free with 5 probes and email notifications)
   * [cloudsploit.com](https://cloudSploit.com) — AWS security and configuration monitoring. Free: unlimited on-demand scans, unlimited users, unlimited stored accounts. Subscription: automated scanning, API access, etc
   * [opbeat.com](https://opbeat.com/) — ​Instant performance insights for JS developers. Free with 24 hours data retention
   * [checkmy.ws](https://checkmy.ws/en/solutions/free-forever-for-foss/) — Free 15 days full demo and 3 websites, forever free for Open Source
