@@ -404,7 +404,6 @@ Table of Contents
 ## DBaaS
 
    * [cloudant.com](https://cloudant.com/) — Hosted database from IBM, free if usage is below USD 50/month
-   * [orchestrate.io](https://orchestrate.io/) — 1 application free
    * [redislabs.com](https://redislabs.com/redis-cloud) — Redis as a Service, 30 MB and 30 concurrent connections free
    * [backand.com](https://www.backand.com/) — Back-end as a service for AngularJS
    * [zenginehq.com](http://www.zenginehq.com/) — Build business workflow apps in minutes, free for single users
