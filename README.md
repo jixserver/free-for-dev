@@ -66,6 +66,7 @@ Table of Contents
 
 ## Tools for Teams and Collaboration
 
+    * [Axolo](https://axolo.co/) - Slack GitHub or Gitlab two way sync integration. Review pull requests in Slack to merge code faster - Axolo creates an ephemeral channel for each pull requests.
   * [scinote.net](http://scinote.net) — Scientific data management and team collaboration. One Team with unlimited number of users, backup and 1 GB storage space
   * [appear.in](https://appear.in/) — One click video conversations, for free
   * [meet.jit.si](https://meet.jit.si/) — One click video conversations, screen sharing, for free
