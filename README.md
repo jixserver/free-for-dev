@@ -591,8 +591,7 @@ Table of Contents
   * [screenshotlayer.com](https://screenshotlayer.com/) — Capture highly customizable snapshots of any website. Free 100 snapshots/month
   * [screenshotmachine.com](https://screenshotmachine.com/) — Capture 100 snapshots/month, png, gif and jpg, including full-length captures, not only home page
   * [readme.io](https://readme.io/) — Beautiful documentations made easy, free for Open Source
-  * [formaholic.com](https://formaholic.com) — Simple form endpoint. Perfect for static sites
-
+  
 ## APIs, Data and ML
 
   * [dreamfactory.com](http://dreamfactory.com/) — Open source REST API backend for mobile, web, and IoT applications. Hook up any SQL/NoSQL database, file storage system, or external service and it instantly creates a comprehensive REST API platform with live documentation, user management,...
