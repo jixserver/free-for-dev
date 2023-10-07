@@ -146,7 +146,7 @@ Table of Contents
   * [appveyor.com](http://www.appveyor.com/) — CD service for Windows, free for Open Source
   * [github.com](https://github.com/ligurio/Continuous-Integration-services) — Comparison of Continuous Integration services
   * [ftploy.com](http://ftploy.com/) — 1 project with unlimited deployments
-  * [deploybot.com](http://www.deploybot.com/) — 1 repository with ten deployments, free for Open Source or Education
+  * [deploybot.com](https://www.deploybot.com/) — 1 repository with ten deployments, free for Open Source or Education
   * [deployhq.com](http://www.deployhq.com/) — 1 project with 10 daily deployments
   * [hub.jazz.net](https://hub.jazz.net/) — 60 minutes of free build time/month
   * [styleci.io](https://styleci.io/) — Public GitHub repositories only
