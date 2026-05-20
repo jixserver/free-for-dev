@@ -204,6 +204,7 @@ Table of Contents
   * [sematext.com](https://sematext.com//logsene) — Free up to 500 MB/day, 7 days retention
   * [sumologic.com](https://www.sumologic.com/) — Free up to 500 MB/day, 7 days retention
   * [logz.io](http://logz.io/) — Free up to 1 GB/day, 3 days retention
+  * [Middleware](https://middleware.io/product/log-monitoring/) - Unlimited data ingestion, 14 days retention
 
 ## Translation Management
 
@@ -251,6 +252,7 @@ Table of Contents
   * [appbeat.io](https://appbeat.io) — Website monitoring, 3 monitors free. They offer very reliable and affordable monitor service.
   * [dnsspy.io](https://dnsspy.io) — Monitor your DNS and get alerts for changes, RFC-violating DNS configs, ... Free for 1 domain, open source maintainers may apply for a free premium account.
   * [monique.io](https://monique.io) — Create dashboards directly from SQL results, JSON data, API respones, Unix commands' output. Define alarms in Javascript. Free for 25000 submissions per month.
+  * [Middleware](https://middleware.io/) - Free for upto 2 hosts with 14 days data retention.
 
 ## Crash and Exception Handling
 
