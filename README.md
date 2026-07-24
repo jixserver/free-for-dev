@@ -562,6 +562,7 @@ Table of Contents
   * [sumome.com](https://sumome.com/) — Heat map and conversion enhancement tools, free without few advanced features
 
 ## Payment / Billing Integration
+  * [InvoiceGen](https://invoice-generator.appsnap.co.uk) - Free online invoice generator — create professional PDF invoices in seconds, no signup required. Free tier with unlimited invoices and PDF download.
 
   * [braintreepayments.com](https://braintreepayments.com/) — Credit Card, Paypal, Venmo, Bitcoin, Apple Pay,... integration. Single and Recurrent Payments. First USD 50,000 free
   * [taxratesapi.avalara.com](http://taxratesapi.avalara.com/) — Get the right sales tax rates to charge for the close to 10,000 sales tax jurisdictions in the USA. Free REST API. Registration required
