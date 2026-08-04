@@ -278,7 +278,7 @@ Table of Contents
   * [phplist.com](https://phplist.com/) — Hosted version allow 300 emails/month free
   * [mailjet.com](https://www.mailjet.com/) — 6,000 emails/month free
   * [sendinblue.com](https://www.sendinblue.com/) — 9,000 emails/month free
-  * [mailtrap.io](https://mailtrap.io/) — Fake SMTP server for development, free plan with 1 inbox, 50 messages, no team member, 2 emails/second, no forward rules
+  * [Mailtrap](https://mailtrap.io) — Email API and SMTP for sending transactional and bulk emails, 4,000 emails/month free, 150 emails/day. Email Marketing: 500 contacts, 1,500 emails/month. Email Sandbox: 50 test emails/month, 1 sandbox, 10 stored emails
   * [postmarkapp.com](https://postmarkapp.com/) — First 25,000 emails free
   * [zoho.com](https://www.zoho.com/mail/) — Free email management and collaboration for up to 10 users
   * [domain.yandex.com](https://domain.yandex.com/domains_add/) — Free email and DNS hosting for up to 1,000 users
