@@ -123,6 +123,7 @@ Table of Contents
   * [blamewarrior.com](https://blamewarrior.com/) — Tool to automatically assign reviewers for new pull requests and track statistics of review process, free for Open Source
   * [gerrithub.io](https://review.gerrithub.io/) — Gerrit code review for GitHub repositories for free
   * [reviewable.io](https://reviewable.io/) — Code review for GitHub repositories, free for public or personal repos
+  * [heygrc.com](https://heygrc.com) - Compliance review on every GitHub pull request (ISO 27001, SOC 2, GDPR, EU AI Act, and more). Public repositories always free. By ISMS Copilot.
   * [sonarqube.com](https://sonarqube.com) — Automated source code analysis for Java, JavaScript, C/C++, C#, VB.NET, PHP, Objective-C, Swift, Python, Groovy and even more languages, free for Open Source
 
 ## Code Search and Browsing
