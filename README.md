@@ -338,6 +338,7 @@ Table of Contents
   * [zeit.co/now](https://zeit.co/now) — Managed platform for Node.js deployments, featuring dynamic real-time scaling. Includes 20 free deploys/month limited to 1 GB storage and 1 GB bandwidth for OSS projects (source files are exposed on a public URL)
   * [sandstorm.io](https://sandstorm.io/) — Sandstorm is an open source operating system for personal and private clouds. Free plan offers 200 MB storage and 5 grains free
   * [gearhost.com](https://www.gearhost.com/pricing) — Platform for .NET and PHP apps. 256 MB of RAM for free on a shared server with limited resources
+  * [dormhost.dev](https://dormhost.dev) — Heroku-style cheap git push deploys for student and hobby projects; Node.js, Python, Go, Java, Ruby, PHP, .NET, Wordpress or a Dockerfile, with MongoDB/PostgreSQL/MySQL on the same machine; 30-day free trial, sleeps when idle and wakes up in ~300ms.
 
 ## BaaS
 
