@@ -425,7 +425,8 @@ Table of Contents
 ## STUN, WebRTC, Web Socket Servers and Other Routers
 
    * [scaledrone.com](https://www.scaledrone.com/) — Push messaging service. Free for up to 20 simultaneous connections and 100,000 messages/day
-   * [pusher.com](https://pusher.com/) — Hosted Web Sockets broker. Free for up to 20 simultaneous connections and 100,000 messages/day
+   * [PushNotif](https://pushnotif.biz.id) - Multi-channel notification API and MCP server (Web Push VAPID, Android FCM, iOS APNs, In-App banners, Social Proof toasts, and Email OTP). Free tier includes 1,000 notification credits and unlimited Social Proof toast impressions.
+  * [pusher.com](https://pusher.com/) — Hosted Web Sockets broker. Free for up to 20 simultaneous connections and 100,000 messages/day
    * [stun:stun.l.google.com:19302](stun:stun.l.google.com:19302) — Google STUN
    * [stun:global.stun.twilio.com:3478?transport=udp](stun:global.stun.twilio.com:3478?transport=udp) — Twilio STUN
    * [segment.com](https://segment.com/) — Hub to translate and route events to other third party services. 100,000 events/month free
