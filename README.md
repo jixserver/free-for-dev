@@ -489,6 +489,7 @@ Table of Contents
    * [filestack.com](https://filestack.com/) — File picker, transform and deliver, free for 250 files, 500 transformations and 3 GB bandwidth
    * [packagecloud.io](https://packagecloud.io/) — Hosted Package Repositories for YUM, APT, RubyGem and PyPI.  Limited free plans, open source plans available via request
    * [image-charts.com](https://image-charts.com/) - Unlimited image chart generation with a watermark
+   * [kaijuconverter.com](https://kaijuconverter.com/) — Free universal online file and media converter supporting documents, images, audio, and video across 100+ formats with developer API
 
 ## Design and UI
 
