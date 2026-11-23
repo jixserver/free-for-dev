@@ -500,6 +500,7 @@ Table of Contents
   * [walkme.com](http://walkme.com/) — Enterprise Class Guidance and Engagement Platform, free plan 3 walk-thrus up to 5 steps/walk
   * [marvelapp.com](https://marvelapp.com/) — Design, prototyping and collaboration, free limited for 3 projects
   * [Zeplin](https://zeplin.io/) — Designer and developer collaboration platform. Show designs, assets and styleguides. Free for 1 project.
+  * [kavel.ai](https://www.kavel.ai/) — Kavel is a free AI video generator and AI image generator — 4K clips with sound, and images you can run without an account or a card.
 
 ## Data Visualization on Maps
 
