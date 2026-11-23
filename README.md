@@ -489,6 +489,7 @@ Table of Contents
    * [filestack.com](https://filestack.com/) — File picker, transform and deliver, free for 250 files, 500 transformations and 3 GB bandwidth
    * [packagecloud.io](https://packagecloud.io/) — Hosted Package Repositories for YUM, APT, RubyGem and PyPI.  Limited free plans, open source plans available via request
    * [image-charts.com](https://image-charts.com/) - Unlimited image chart generation with a watermark
+   * [freeimagetovideo.ai](https://freeimagetovideo.ai/) — Free image to video AI with no daily cap: start with no sign-up, keep going on a free account. Every video comes with sound and no watermark.
 
 ## Design and UI
 
